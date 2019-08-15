@@ -21,10 +21,6 @@
     ```
         $ pipenv shell
     ```
-- Activate virtual environment
-    ```
-        $ pipenv shell
-    ```
 - Install experiments python package
     ```
         $ python setup.py install
