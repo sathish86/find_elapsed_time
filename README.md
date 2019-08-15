@@ -11,7 +11,7 @@
     ```
 - change to project directory
     ```
-        $ cd <>/find_elapsed_time
+        $ cd <project_path>/find_elapsed_time
     ```
 - Install and create virutal environment using pipenv
     ```
